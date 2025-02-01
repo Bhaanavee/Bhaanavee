@@ -1,6 +1,6 @@
 - 👋 I’m @Bhaanavee
 - 👀 You'd wanna have a look into my portfolio  https://landing-page-bhaanavee.vercel.app/
-- 🌱 I’m currently learning Android App Development using Flutter, Python, Java , DSA , Front end development and basics of AI and ML 
+- 🌱 Skills Python, Java , DSA , Front end development , and basics of AI and ML 
 - 📫 How to reach me bhanavee123@gmail.com
 - Linked In - www.linkedin.com/in/bhaanavee-c-s-81a316295
 
