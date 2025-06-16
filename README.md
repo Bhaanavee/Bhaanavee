@@ -20,10 +20,6 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaanavee&theme=react-dark&hide_border=false)
 
 
-
-![snake gif](https://github.com/Bhaanavee/snk/raw/output/github-snake.gif)
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaanavee&show_icons=true&locale=en&layout=compact" alt="bhaanavee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaanavee&show_icons=true&locale=en" alt="bhaanavee" /></p>
