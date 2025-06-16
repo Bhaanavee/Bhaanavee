@@ -19,7 +19,7 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaanavee&theme=react-dark&hide_border=false)
 
-![snake svg](https://github.com/Bhaanavee/raw/output/github-snake.svg)
+![snake svg](https://github.com/Bhaanavee/snk/raw/output/github-snake.svg)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaanavee&show_icons=true&locale=en&layout=compact" alt="bhaanavee" /></p>
