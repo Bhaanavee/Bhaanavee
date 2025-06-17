@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaanavee&" alt="bhaanavee" /></p>
 
-![Snake animation](https://github.com/Bhaanavee-C-S/Bhaanavee/blob/output/github-contribution-grid-snake.svg)
+
