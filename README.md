@@ -19,6 +19,8 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaanavee&theme=react-dark&hide_border=false)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4557147" style='border:none;'></iframe>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaanavee&show_icons=true&locale=en&layout=compact" alt="bhaanavee" /></p>
 
