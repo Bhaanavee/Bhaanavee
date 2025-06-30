@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaanavee C S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaanavee&label=Profile%20views&color=0e75b6&style=flat" alt="bhaanavee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaanavee" alt="bhaanavee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bhaanavee&theme=kimbie_dark" alt="bhaanavee" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science, Python, Java, ML, DSA**
 
