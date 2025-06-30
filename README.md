@@ -21,10 +21,22 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaanavee&layout=pie&theme=merko"/>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaanavee&layout=pie&theme=merko"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bhaanavee&theme=transparent&hide_border=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Bhaanavee&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
+    </td>
+  </tr>
+</table>
 
-![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhaanavee&theme=transparent&hide_border=true)
-
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Bhaanavee&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
