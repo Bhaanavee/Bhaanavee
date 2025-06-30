@@ -21,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaanavee&show_icons=true&locale=en&layout=compact" alt="bhaanavee" /></p>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"/>
 
 ![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)
 
