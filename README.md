@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaanavee&show_icons=true&locale=en&layout=compact" alt="bhaanavee" /></p>
 
-<p>&nbsp;<img align="center" src="![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)" alt="bhaanavee" /></p>
+![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaanavee&" alt="bhaanavee" /></p>
