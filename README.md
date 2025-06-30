@@ -21,8 +21,8 @@
 
 
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhaanavee&theme=transparent"/>
 
 ![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhaanavee&theme=transparent&hide_border=true)
