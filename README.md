@@ -25,4 +25,4 @@
 
 ![Stats Card 5](https://github-readme-stats.vercel.app/api?username=Bhaanavee&show_icons=true&locale=en&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaanavee&" alt="bhaanavee" /></p>
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true)
