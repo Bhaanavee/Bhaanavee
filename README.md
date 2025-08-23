@@ -42,9 +42,7 @@
   </tr>
   <tr>
     
-  <td>
-      <img height="180em" src="https://leetcard.jacoblin.cool/Bhaanavee?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
-    </td>
+
 
   </tr>
 </table>
