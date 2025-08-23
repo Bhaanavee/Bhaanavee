@@ -37,6 +37,9 @@
     <td>
       <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Bhaanavee&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
     </td>
+    <td>
+      <img height="180em" src="https://leetcard.jacoblin.cool/Bhaanavee?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
+    </td>
   </tr>
 </table>
 
