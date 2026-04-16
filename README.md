@@ -13,7 +13,7 @@
 
 ---
 
-### things i actually use (no lies here)
+### things i actually know (no lies here)
 **languages:**  
 python • java • c • javascript  
 
