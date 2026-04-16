@@ -1,30 +1,49 @@
-<h1 align="center">hi 👋 i'm bhaanavee</h1>
+<h1 align="center">hey, i'm bhaanavee</h1>
 
 <p align="center">
-  part-time coder, full-time overthinker  
+  i build things • break things • fix them (eventually)
 </p>
 
 ---
 
-### what i'm up to
-- building cool stuff with **ml + data + web**
-- figuring out life one bug at a time
-- pretending i understand everything in dsa (i do. mostly.)
+### currently
+- surviving **cs engineering**
+- working on **ml + computer vision projects**
+- pretending deadlines are just ✨suggestions✨
 
 ---
 
-### tech i actually use
+### things i actually use (no lies here)
 **languages:**  
 python • java • c • javascript  
 
-**web/dev:**  
+**web dev:**  
 react • next.js • node.js • html • css • tailwind  
 
 **data + ml:**  
 pandas • scikit-learn • pytorch • tensorflow • opencv  
 
-**tools:**  
-git • firebase • mongodb • mysql • gcp  
+**databases + backend:**  
+firebase • mongodb • mysql  
+
+**cybersecurity:**  
+network basics • web security fundamentals • authentication • basic vuln analysis
+
+**tools + other chaos:**  
+git • gcp • vs code • rest apis • debugging at 2am  
+
+---
+
+### stuff i've worked on
+- ml + computer vision projects (yolo, detection, etc.)
+- chatbot systems (nlp + APIs)
+- full-stack web apps (next.js + firebase)
+- data analysis & visualization projects
+
+---
+
+### retired era
+- flutter (character development phase)
 
 ---
 
@@ -34,14 +53,16 @@ git • firebase • mongodb • mysql • gcp
 
 ---
 
-### ⚡ fun facts
-- i *will* fix a bug at 2am just to prove a point  
-- my code works... eventually  
-- i think i'm funny (jury's still out)
+### ⚡ personality traits (certified)
+- fixes bugs i created myself  
+- argues with DSA problems and sometimes wins  
+- refuses to give up until it works (or 5am hits)  
+- writes code that works… after character development  
+- believes every error message is a personal attack   
 
 ---
 
-### github chaos
+### github activity (aka proof i exist)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaanavee&theme=react-dark&hide_border=false)
 
 <table>
