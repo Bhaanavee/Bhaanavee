@@ -6,14 +6,14 @@
 
 ---
 
-### 🧠 what i'm up to
+### what i'm up to
 - building cool stuff with **ml + data + web**
 - figuring out life one bug at a time
 - pretending i understand everything in dsa (i do. mostly.)
 
 ---
 
-### ⚙️ tech i actually use
+### tech i actually use
 **languages:**  
 python • java • c • javascript  
 
@@ -28,7 +28,7 @@ git • firebase • mongodb • mysql • gcp
 
 ---
 
-### 📬 reach me
+### reach me
 📧 bhanavee123@gmail.com  
 💼 linkedin: https://linkedin.com/in/bhaanavee-c-s-
 
@@ -41,7 +41,7 @@ git • firebase • mongodb • mysql • gcp
 
 ---
 
-### 📊 github chaos
+### github chaos
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhaanavee&theme=react-dark&hide_border=false)
 
 <table>
