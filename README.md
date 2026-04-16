@@ -34,16 +34,15 @@ git • gcp • vs code • rest apis • debugging at 2am
 
 ---
 
-### stuff i've worked on
-- ml + computer vision projects (yolo, detection, etc.)
-- chatbot systems (nlp + APIs)
-- full-stack web apps (next.js + firebase)
-- data analysis & visualization projects
+i like building things where ai meets real-world problems (and sometimes chaos)
 
----
+### things i've built (and actually had fun with)
 
-### retired era
-- flutter (character development phase)
+- made DNA sequences sound like music (FourBase Band — yes, it actually works)
+- tried predicting how crops would perform using their DNA (genomics + deep learning)
+- trained models to look at CT scans and go “hmm… something’s off”  
+- built a Spotify playlist generator based on mood because existing ones weren’t enough  
+- colorized old black & white images — because everything deserves color  
 
 ---
 
@@ -53,12 +52,13 @@ git • gcp • vs code • rest apis • debugging at 2am
 
 ---
 
-### ⚡ personality traits (certified)
-- fixes bugs i created myself  
-- argues with DSA problems and sometimes wins  
-- refuses to give up until it works (or 5am hits)  
-- writes code that works… after character development  
-- believes every error message is a personal attack   
+### personality traits (certified)
+
+- writes code that works… after suffering  
+- argues with DSA problems and occasionally wins  
+- believes every bug is fixable (eventually)  
+- starts projects for fun and somehow learns a lot  
+- not afraid to try weird ideas (dna → music was one of them)  
 
 ---
 
